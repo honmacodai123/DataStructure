@@ -1,0 +1,7 @@
+C:\Users\DELL\Desktop\FirstLAB\FirstLAB\bin\Debug\FirstLAB.exe.config
+C:\Users\DELL\Desktop\FirstLAB\FirstLAB\bin\Debug\FirstLAB.exe
+C:\Users\DELL\Desktop\FirstLAB\FirstLAB\bin\Debug\FirstLAB.pdb
+C:\Users\DELL\Desktop\FirstLAB\FirstLAB\obj\Debug\FirstLAB.csprojAssemblyReference.cache
+C:\Users\DELL\Desktop\FirstLAB\FirstLAB\obj\Debug\FirstLAB.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\FirstLAB\FirstLAB\obj\Debug\FirstLAB.exe
+C:\Users\DELL\Desktop\FirstLAB\FirstLAB\obj\Debug\FirstLAB.pdb
